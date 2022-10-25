@@ -1,3 +1,5 @@
+# Webaverse Implementation
+
 # Mixture2Music Offical
 
 This repository is implementation of "Instrument Separation of Symbolic Music by Explicitly Guided Diffusion Model" (submitted at [NeurIPS ML4CD 2022](https://neuripscreativityworkshop.github.io/2022/)). Our diffusion model takes mixtures <em>(time x pitch)</em> as inputs and recovers music <em>(time x pitch x instrument)</em> with strong consistency.
